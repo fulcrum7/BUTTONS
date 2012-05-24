@@ -1,0 +1,1 @@
+cmd_/nfs/fma/alarm/fma1125dc_alarm.ko := ld -EL -r  -T /nfs/fma/linux-omap3/scripts/module-common.lds --build-id  -o /nfs/fma/alarm/fma1125dc_alarm.ko /nfs/fma/alarm/fma1125dc_alarm.o /nfs/fma/alarm/fma1125dc_alarm.mod.o
